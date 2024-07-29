@@ -1,1 +1,6 @@
-
+5 common tokenization techniques are:
+1.Tokenization Using Python's Inbuilt Method - Split()
+2.Tokenization Using Regular Expressions(RegEx)
+3.Tokenization Using NLTK
+4.Tokenization using Spacy
+5.Tokenization using Keras
