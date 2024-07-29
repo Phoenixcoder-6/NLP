@@ -4,7 +4,7 @@ This is a dedicated repository focusing on NLP , it's techniques and examples. I
 # TEXT PROCESSING LEVEL-1
 ->> Tokeization : Tokenization is a fundamental step in natural language processing (NLP) that involves breaking down a text into smaller units called tokens. These tokens can be words, subwords, or characters. Tokenization is essential because it prepares the text for further processing and analysis.
 
--->   Types of Tokenization
+-->   **Types of Tokenization**
 
 #Word Tokenization: Splitting text into individual words.
 
