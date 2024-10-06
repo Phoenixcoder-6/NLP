@@ -144,7 +144,7 @@ Transformation-Based Tagging: Corrects initial tags using learned rules (Brill t
 Neural Network-Based Tagging: Employs RNNs, LSTMs, and other deep learning models.
 Conditional Random Fields (CRFs): Models the sequence of tags as a whole, considering a wide range of features.
 Hybrid Approaches: Combines multiple methods to enhance accuracy.
-Each of these techniques has its strengths and weaknesses, and the choice of method o
+Each of these techniques has its strengths and weaknesses, and the choice of metho
 
 
 
